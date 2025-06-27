@@ -9,7 +9,7 @@ Academic group project developed for the **Intelligent Systems** course (academi
 
 ## Overview
 
-This project implements a **multi-agent system** to simulate and manage the logistics of organ transplants. The system includes four specialized agents:
+This project implements a **multi-agent system** to simulate and manage organ transplant logistics. The system includes four specialized agents:
 
 - **AT (Transplant Agent)**: Manages organ allocation and fallback strategies.
 
