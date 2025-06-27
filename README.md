@@ -3,8 +3,7 @@
 Academic group project developed for the **Intelligent Systems** course (academic year 2024/2025).
 
 **Team**: [Clara Cunha](https://github.com/clara-cunha), [Manuel Carvalho](https://github.com/Brisingrzzz)
-, [Nuno Matos]([https://github.com/Brisingrzzz](https://github.com/Nuno-lxm))
- and Leonor Amorim
+, [Nuno Matos](https://github.com/Nuno-lxm) and Leonor Amorim
 
 **Grade**: 19/20
 
